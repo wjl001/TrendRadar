@@ -326,7 +326,7 @@ ai:
   # 完整列表: https://docs.litellm.ai/docs/providers
   # 如果你对于看英文文档比较头疼，那么可以点击页面右下角的 【Ask AI】 ,用中文询问怎么配置 
   
-  model: "bailian/bailian-chat"
+  model: "bailian/qwen-flash-character"
 
   api_key: "sk-5190c6c0c0e144c0a9950fbf5967ccdb"                       # API Key（建议使用环境变量 AI_API_KEY）
   
